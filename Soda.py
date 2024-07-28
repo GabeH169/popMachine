@@ -1,4 +1,4 @@
-# @Gabriel Haro-Villa
+# @Gabriel H
 # Class Soda represents a soda with a name, price, and ounces.
 from Item import Item
 class Soda(Item):
