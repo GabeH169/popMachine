@@ -1,5 +1,5 @@
 # Class Item represents an item with a name and a price
-# @Gabriel Haro-Villa
+# @Gabriel H
 class Item:
     def __init__(self, newName = "", newPrice = 0):
         self.setName(newName)
