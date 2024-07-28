@@ -1,6 +1,6 @@
 # Class Slot represents a slot in a pop machine that holds an
 # item and tracks the quantity in stock
-# @Gabriel Haro-Villa
+# @Gabriel H
 from Item import Item
 class Slot:
   
