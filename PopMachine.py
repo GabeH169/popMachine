@@ -1,5 +1,5 @@
 # This program runs a simple pop machine.
-# @Gabriel Haro-Villa
+# @Gabriel H
 #an edit
 from Slot import Slot
 from Soda import Soda
